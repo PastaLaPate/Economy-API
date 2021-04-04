@@ -1,0 +1,789 @@
+[14:26:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:26:04] [Worker-Main-13/INFO]: Loaded 7 recipes
+[14:26:06] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:26:06] [Server thread/INFO]: Loading properties
+[14:26:06] [Server thread/INFO]: This server is running CraftBukkit version 2991-Spigot-018b9a0-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[14:26:06] [Server thread/INFO]: Debug logging is disabled
+[14:26:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:26:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:26:06] [Server thread/INFO]: Default game type: ADVENTURE
+[14:26:06] [Server thread/INFO]: Generating keypair
+[14:26:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:26:06] [Server thread/INFO]: Using default channel type
+[14:26:08] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:26:11] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:26:11] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:26:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:26:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:26:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:26:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:26:11] [Server thread/INFO]: Preparing level "teste"
+[14:26:11] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:26:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:26:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:26:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:26:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:26:11] [Server thread/INFO]: View Distance: 10
+[14:26:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:26:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:26:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:26:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:26:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Max TNT Explosions: 100
+[14:26:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:26:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:26:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:26:11] [Server thread/INFO]: Mob Spawn Range: 6
+[14:26:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:26:11] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:26:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:26:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:26:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:26:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:26:11] [Server thread/INFO]: View Distance: 10
+[14:26:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:26:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:26:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:26:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:26:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:26:11] [Server thread/INFO]: Max TNT Explosions: 100
+[14:26:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:26:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:26:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:26:11] [Server thread/INFO]: Mob Spawn Range: 6
+[14:26:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:26:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:26:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:12] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:12] [Server thread/INFO]: Time elapsed: 1613 ms
+[14:26:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:26:13] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:13] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[14:26:13] [Server thread/INFO]: Time elapsed: 892 ms
+[14:26:13] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:26:13] [Server thread/INFO]: Economy API enabled
+[14:26:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:26:14] [Server thread/INFO]: Done (3.028s)! For help, type "help"
+[14:28:02] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:28:02] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:28:02] [Server thread/INFO]: Debug logging is disabled
+[14:28:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:28:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:28:02] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:28:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:28:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:28:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:28:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:28:02] [Server thread/INFO]: View Distance: 10
+[14:28:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:28:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:28:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:28:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:28:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Max TNT Explosions: 100
+[14:28:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:28:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:28:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:28:02] [Server thread/INFO]: Mob Spawn Range: 6
+[14:28:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:28:02] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:28:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:28:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:28:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:28:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:28:02] [Server thread/INFO]: View Distance: 10
+[14:28:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:28:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:28:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:28:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:28:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:28:02] [Server thread/INFO]: Max TNT Explosions: 100
+[14:28:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:28:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:28:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:28:02] [Server thread/INFO]: Mob Spawn Range: 6
+[14:28:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:28:02] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:28:02] [Server thread/INFO]: Economy API disabled
+[14:28:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:28:02] [Server thread/INFO]: Loaded 7 recipes
+[14:28:03] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:28:03] [Server thread/INFO]: Loaded 7 recipes
+[14:28:03] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:28:03] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:28:03] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:28:03] [Server thread/INFO]: Economy API enabled
+[14:28:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:28:03] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[14:28:06] [User Authenticator #1/INFO]: UUID of player PastaLaPate is d7707d9e-2975-3332-8a3d-13c5ddd83ac5
+[14:28:06] [Server thread/INFO]: PastaLaPate[/127.0.0.1:62043] logged in with entity id 23 at ([teste]0.7646161386529555, 70.58028451200087, -512.5153079411028)
+[14:28:33] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:29:43] [Server thread/INFO]: PastaLaPate issued server command: /gamemode creative
+[14:29:43] [Server thread/INFO]: [PastaLaPate: Set own game mode to Creative Mode]
+[14:29:48] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:31:42] [Server thread/INFO]: PastaLaPate issued server command: /rl
+[14:31:42] [Server thread/INFO]: PastaLaPate: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:31:42] [Server thread/INFO]: PastaLaPate: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:31:42] [Server thread/INFO]: Debug logging is disabled
+[14:31:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:31:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:31:42] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:31:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:31:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:31:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:31:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:31:42] [Server thread/INFO]: View Distance: 10
+[14:31:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:31:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:31:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:31:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:31:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Max TNT Explosions: 100
+[14:31:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:31:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:31:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:31:42] [Server thread/INFO]: Mob Spawn Range: 6
+[14:31:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:31:42] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:31:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:31:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:31:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:31:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:31:42] [Server thread/INFO]: View Distance: 10
+[14:31:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:31:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:31:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:31:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:31:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:31:42] [Server thread/INFO]: Max TNT Explosions: 100
+[14:31:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:31:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:31:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:31:42] [Server thread/INFO]: Mob Spawn Range: 6
+[14:31:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:31:42] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:31:42] [Server thread/INFO]: Economy API disabled
+[14:31:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:31:42] [Server thread/INFO]: Loaded 7 recipes
+[14:31:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:31:42] [Server thread/INFO]: Loaded 7 recipes
+[14:31:43] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:31:43] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:31:43] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:31:43] [Server thread/INFO]: Economy API enabled
+[14:31:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:31:43] [Server thread/INFO]: PastaLaPate: [0;32;1mReload complete.[m
+[14:31:44] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:31:45] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Economy_API v0.0.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+Caused by: java.lang.NullPointerException
+	at fr.pastalapate.economy_api.commands.CommandMenuEconomy.onClick(CommandMenuEconomy.java:91) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_281]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	... 18 more
+[14:31:46] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Economy_API v0.0.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+Caused by: java.lang.NullPointerException
+	at fr.pastalapate.economy_api.commands.CommandMenuEconomy.onClick(CommandMenuEconomy.java:91) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_281]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	... 18 more
+[14:31:46] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Economy_API v0.0.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+Caused by: java.lang.NullPointerException
+	at fr.pastalapate.economy_api.commands.CommandMenuEconomy.onClick(CommandMenuEconomy.java:91) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_281]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	... 18 more
+[14:31:46] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Economy_API v0.0.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+Caused by: java.lang.NullPointerException
+	at fr.pastalapate.economy_api.commands.CommandMenuEconomy.onClick(CommandMenuEconomy.java:91) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_281]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	... 18 more
+[14:31:47] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Economy_API v0.0.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+Caused by: java.lang.NullPointerException
+	at fr.pastalapate.economy_api.commands.CommandMenuEconomy.onClick(CommandMenuEconomy.java:91) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_281]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	... 18 more
+[14:31:47] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Economy_API v0.0.2
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+Caused by: java.lang.NullPointerException
+	at fr.pastalapate.economy_api.commands.CommandMenuEconomy.onClick(CommandMenuEconomy.java:91) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_281]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_281]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_281]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot.jar:2991-Spigot-018b9a0-f3f3094]
+	... 18 more
+[14:34:07] [Server thread/INFO]: PastaLaPate issued server command: /rl
+[14:34:07] [Server thread/INFO]: PastaLaPate: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:34:07] [Server thread/INFO]: PastaLaPate: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:34:07] [Server thread/INFO]: Debug logging is disabled
+[14:34:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:34:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:34:07] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:34:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:34:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:34:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:34:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:34:07] [Server thread/INFO]: View Distance: 10
+[14:34:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:34:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:34:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:34:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:34:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Max TNT Explosions: 100
+[14:34:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:34:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:34:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:34:07] [Server thread/INFO]: Mob Spawn Range: 6
+[14:34:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:34:07] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:34:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:34:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:34:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:34:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:34:07] [Server thread/INFO]: View Distance: 10
+[14:34:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:34:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:34:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:34:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:34:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:34:07] [Server thread/INFO]: Max TNT Explosions: 100
+[14:34:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:34:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:34:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:34:07] [Server thread/INFO]: Mob Spawn Range: 6
+[14:34:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:34:07] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:34:07] [Server thread/INFO]: Economy API disabled
+[14:34:07] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:34:07] [Server thread/INFO]: Loaded 7 recipes
+[14:34:07] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:34:07] [Server thread/INFO]: Loaded 7 recipes
+[14:34:08] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:34:08] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:34:08] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:34:08] [Server thread/INFO]: Economy API enabled
+[14:34:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:34:08] [Server thread/INFO]: PastaLaPate: [0;32;1mReload complete.[m
+[14:34:15] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:36:39] [Server thread/INFO]: PastaLaPate issued server command: /rl
+[14:36:39] [Server thread/INFO]: PastaLaPate: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:36:39] [Server thread/INFO]: PastaLaPate: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:36:39] [Server thread/INFO]: Debug logging is disabled
+[14:36:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:36:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:36:39] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:36:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:36:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:36:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:36:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:36:39] [Server thread/INFO]: View Distance: 10
+[14:36:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:36:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:36:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:36:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:36:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Max TNT Explosions: 100
+[14:36:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:36:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:36:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:36:39] [Server thread/INFO]: Mob Spawn Range: 6
+[14:36:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:36:39] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:36:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:36:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:36:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:36:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:36:39] [Server thread/INFO]: View Distance: 10
+[14:36:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:36:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:36:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:36:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:36:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:36:39] [Server thread/INFO]: Max TNT Explosions: 100
+[14:36:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:36:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:36:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:36:39] [Server thread/INFO]: Mob Spawn Range: 6
+[14:36:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:36:39] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:36:39] [Server thread/INFO]: Economy API disabled
+[14:36:39] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:36:39] [Server thread/INFO]: Loaded 7 recipes
+[14:36:40] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:36:40] [Server thread/INFO]: Loaded 7 recipes
+[14:36:40] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:36:40] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:36:40] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:36:40] [Server thread/INFO]: Economy API enabled
+[14:36:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:40] [Server thread/INFO]: PastaLaPate: [0;32;1mReload complete.[m
+[14:36:41] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:43:06] [Server thread/INFO]: PastaLaPate issued server command: /rl
+[14:43:06] [Server thread/INFO]: PastaLaPate: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:43:06] [Server thread/INFO]: PastaLaPate: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:43:06] [Server thread/INFO]: Debug logging is disabled
+[14:43:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:43:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:43:06] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:43:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:43:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:43:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:43:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:43:06] [Server thread/INFO]: View Distance: 10
+[14:43:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:43:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:43:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:43:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:43:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Max TNT Explosions: 100
+[14:43:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:43:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:43:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:43:06] [Server thread/INFO]: Mob Spawn Range: 6
+[14:43:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:43:06] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:43:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:43:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:43:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:43:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:43:06] [Server thread/INFO]: View Distance: 10
+[14:43:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:43:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:43:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:43:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:43:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:43:06] [Server thread/INFO]: Max TNT Explosions: 100
+[14:43:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:43:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:43:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:43:06] [Server thread/INFO]: Mob Spawn Range: 6
+[14:43:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:43:06] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:43:06] [Server thread/INFO]: Economy API disabled
+[14:43:06] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:43:07] [Server thread/INFO]: Loaded 7 recipes
+[14:43:07] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:43:07] [Server thread/INFO]: Loaded 7 recipes
+[14:43:07] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:43:07] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:43:07] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:43:07] [Server thread/INFO]: Economy API enabled
+[14:43:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:43:07] [Server thread/INFO]: PastaLaPate: [0;32;1mReload complete.[m
+[14:43:08] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:44:24] [Server thread/INFO]: PastaLaPate issued server command: /rl
+[14:44:24] [Server thread/INFO]: PastaLaPate: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:44:24] [Server thread/INFO]: PastaLaPate: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:44:24] [Server thread/INFO]: Debug logging is disabled
+[14:44:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:44:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:44:24] [Server thread/INFO]: -------- World Settings For [teste] --------
+[14:44:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:44:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:44:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:44:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:44:24] [Server thread/INFO]: View Distance: 10
+[14:44:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:44:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:44:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:44:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:44:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Max TNT Explosions: 100
+[14:44:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:44:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:44:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:44:24] [Server thread/INFO]: Mob Spawn Range: 6
+[14:44:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:44:24] [Server thread/INFO]: -------- World Settings For [teste_the_end] --------
+[14:44:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:44:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:44:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:44:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:44:24] [Server thread/INFO]: View Distance: 10
+[14:44:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:44:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:44:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:44:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:44:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:44:24] [Server thread/INFO]: Max TNT Explosions: 100
+[14:44:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:44:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:44:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:44:24] [Server thread/INFO]: Mob Spawn Range: 6
+[14:44:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:44:24] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:44:24] [Server thread/INFO]: Economy API disabled
+[14:44:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:44:25] [Server thread/INFO]: Loaded 7 recipes
+[14:44:25] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:44:25] [Server thread/INFO]: Loaded 7 recipes
+[14:44:25] [Server thread/WARN]: Legacy plugin Economy_API v0.0.2 does not specify an api-version.
+[14:44:25] [Server thread/INFO]: [Economy_API] Loading Economy_API v0.0.2
+[14:44:25] [Server thread/INFO]: [Economy_API] Enabling Economy_API v0.0.2
+[14:44:25] [Server thread/INFO]: Economy API enabled
+[14:44:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:44:25] [Server thread/INFO]: PastaLaPate: [0;32;1mReload complete.[m
+[14:44:26] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:44:56] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:45:01] [Server thread/INFO]: PastaLaPate issued server command: /menu_economy
+[14:51:43] [Server thread/INFO]: Stopping the server
+[14:51:43] [Server thread/INFO]: Stopping server
+[14:51:43] [Server thread/INFO]: [Economy_API] Disabling Economy_API v0.0.2
+[14:51:43] [Server thread/INFO]: Economy API disabled
+[14:51:43] [Server thread/INFO]: Saving players
+[14:51:43] [Server thread/INFO]: PastaLaPate lost connection: Server closed
+[14:51:43] [Server thread/INFO]: PastaLaPate left the game
+[14:51:43] [Server thread/INFO]: Saving worlds
+[14:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[teste]'/minecraft:overworld
+[14:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (teste): All chunks are saved
+[14:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[teste_the_end]'/minecraft:the_end
+[14:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (teste): All chunks are saved
+[14:51:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

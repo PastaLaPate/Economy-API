@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "d7707d9e-2975-3332-8a3d-13c5ddd83ac5",
+    "name": "PastaLaPate",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "52f342d2-c733-41ce-9646-918b79d37f8d",
+    "name": "PastaLaPate",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "93d34bc2-176f-35c5-b1d5-a9fb091b21c9",
+    "name": "__Pasta__",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

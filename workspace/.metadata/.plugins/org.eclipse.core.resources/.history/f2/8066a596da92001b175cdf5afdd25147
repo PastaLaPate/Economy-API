@@ -1,0 +1,30 @@
+package fr.pastalapate.economy_api.listeners;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.Listener;
+import org.bukkit.event.player.PlayerJoinEvent;
+
+import fr.pastalapate.economy_api.EAPIMain;
+
+public class GPlayerListeners implements Listener {
+
+	private EAPIMain main;
+	
+	public GPlayerListeners(EAPIMain main) {
+		this.main = main;
+	}
+		
+	@EventHandler
+	public void onJoin(PlayerJoinEvent e) {
+		Player player = e.getPlayer();
+		if(!main.getConfig().getStringList("money.money-list").contains(player.getName())) {
+			List money_list = main.getConfig().getStringList("money.money-list");
+			main.getConfig().set("money.money-list", player);
+			main.saveConfig();
+		}
+	}
+}

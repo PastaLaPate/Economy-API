@@ -1,0 +1,7 @@
+name: Economy_API
+version: 0.0.1
+main: fr.pastalapate.economy_api.EAPIMain
+author: PastaLaPate
+commands:
+  money:
+    

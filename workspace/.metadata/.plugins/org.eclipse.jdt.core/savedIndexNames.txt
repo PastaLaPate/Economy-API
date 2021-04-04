@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Documents\Spigot\ECONOMY_API\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3301487172.index
+3456182558.index
+3479417716.index

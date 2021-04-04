@@ -1,0 +1,26 @@
+package fr.pastalapate.economy_api.file;
+
+
+import java.io.File;
+
+import org.bukkit.configuration.file.FileConfiguration;
+
+import fr.pastalapate.economy_api.EAPIMain;
+
+public class DataManager {
+
+	private EAPIMain main;
+	private FileConfiguration dataConfig = null;
+	private File configFile = null;
+	
+	public DataManager(EAPIMain main) {
+		this.main = main;
+	}
+	
+	public void reloadConfig() {
+		if(this.configFile == null) {
+			
+		}
+	}
+	
+}

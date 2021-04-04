@@ -1,0 +1,5 @@
+commands:
+  money: true
+messages:
+  commands-disabled: "Sorry this command is disabled."
+commands:

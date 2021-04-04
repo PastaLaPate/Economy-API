@@ -1,0 +1,21 @@
+package fr.pastalapate.economy_api;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+import fr.pastalapate.economy_api.commands.CommandMoney;
+
+public class EAPIMain extends JavaPlugin {
+
+	@Override
+	public void onEnable() {
+		saveDefaultConfig();
+		System.out.println("Economy API enabled");
+		getCommand("money").setExecutor(new CommandMoney(this));;
+	}
+	
+	@Override
+	public void onDisable() {
+		System.out.println("Economy API disabled");
+	}
+	
+}

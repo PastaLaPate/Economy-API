@@ -1,0 +1,7 @@
+commands:
+  money: true
+messages:
+  commands-disabled: "Sorry this command is disabled."
+  player-
+commands-enabled:
+  money: []

@@ -1,0 +1,8 @@
+commands:
+  money: true
+  pay: true
+messages:
+  commands-disabled: "Sorry this command is disabled."
+  player-not-found: "Sorry this player is not found."
+  money: "You've got $"
+  not-enough-money: "You don't have enough money!"

@@ -1,0 +1,14 @@
+name: Economy_API
+version: 0.0.1
+main: fr.pastalapate.economy_api.EAPIMain
+author: PastaLaPate
+commands:
+  money:
+    description: Your money
+    permission: eapi.money
+  pay:
+    description: Pay player
+    permission: eapi.pay
+  eapi_rl:
+    description: Reload plugin
+    permission: eapi.admin.reload
